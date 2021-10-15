@@ -13,7 +13,8 @@ body{
 
 /* --------- Quiz layout */
 
-/* container */
+/* container */ 
+/*Learned and adopted some of the code from Coding Ninjas(https://www.codingninjas.com/blog/2020/11/03/how-to-create-a-quiz-in-javascript/?amp=1) tutorial*/
 .quiz-container {
     margin: auto;
     margin-top: 10%;
@@ -22,7 +23,7 @@ body{
     border: 5px solid #ff5e00;
     background: #062b63;
     border-radius: 50px;
-    box-shadow: 0 0 5px 4px;
+    box-shadow: 0 0 5px 4px; 
     }
 
 /* header/question */

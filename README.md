@@ -43,10 +43,10 @@
 ## Features
 
 ### Existing Features
-    Interactive elements
+  * Interactive elements
 
 ### Features Left to Implement
-    Responsive design on all device sizes
+  * Responsive design on all device sizes
 
 
 
@@ -117,17 +117,15 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ### Media
 
-* Free image was sourced from from [Pexels]()
+* Free image was sourced from [Pixabay](https://pixabay.com/) and [StickPNG](https://www.stickpng.com/)
 
 ### Code
 
-* How to auto-resize an Image to Fit into a DIV Container using CSS. Code was adopted from the [TutorialRepublic]()
+* Used [Coding Ninjas](https://www.codingninjas.com/blog/2020/11/03/how-to-create-a-quiz-in-javascript/?amp=1) tutorial as a reference to implement project idea.
 
-* Learned and adopted code for border-collapse property from [DEV]().
+* Used [Zenva Academy](https://academy.zenva.com/product/javascript-mini-projects-language-learning-game/) tutorial as a reference to implement project idea.
 
-* Learned and adopted code for table-layoutcss property from  [MDN Web Docs]()
-
-* Learned and adopted code for for :placeholder property to change the color of the placeholder text from [W3 school]()
+* Learned how to display two divs side by side from [coder coder!](https://coder-coder.com/display-divs-side-by-side/).
 
 ### Acknowledgements
 
