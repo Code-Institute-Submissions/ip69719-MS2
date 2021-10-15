@@ -24,6 +24,10 @@ let questions = [{
 let currentQuestion = 0; //current question and
 let score = 0;//score
 
+//Get/display total number of questions in the quiz
+let  totalQuestions = document.getElementById("total-questions");
+totalQuestions.innerHTML = questions.length;
+
 
 //Display question function
 function displayQuestion() {
