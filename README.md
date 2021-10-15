@@ -1,7 +1,7 @@
-[Link to the live project]()
+[Link to the live project](https://ip69719.github.io/MS2/)
 
 # Welcome to my Car Logos learning game!
-
+The primary Project Goal is to create a simple car logos learning game.
 
 
 ## User Experience (UX)
@@ -16,7 +16,6 @@
 *   User stories
     * First Time Visitor Goals
         * 
-
 
     * Returning Visitor Goals
         * 
@@ -82,12 +81,11 @@
 
 The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/ip69719/my-first-project)
-1. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-1. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-1. Under "Source", click the dropdown called "None" and select "Master Branch".
-1. The page will automatically refresh.
-1. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/ip69719/MS2)
+1. In the menu located at the top of this section, click 'Settings'.
+1. Scroll down the Settings page until you locate the "GitHub Pages" Section and click on the link provided.
+1. Under "Source", click the dropdown and select "main" Branch and "/root" folder and save.
+1. The page is then given a site URL which you will see above the source section.
 
 
 ### Forking the GitHub Repository
