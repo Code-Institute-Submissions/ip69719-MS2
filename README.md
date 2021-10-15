@@ -36,9 +36,9 @@
 
 ### Wireframes
 
-* [Home Page Wireframe ]()
-* [Mobile Wireframe ]()
-* [Tablet Wireframe ]()
+* [Home Page Wireframe ](https://github.com/ip69719/MS2/blob/main/wireframes/MS2%20Wireframe%20Desktop.pdf)
+* [Mobile Wireframe ](https://github.com/ip69719/MS2/blob/main/wireframes/MS2%20Wireframe%20Phone.pdf)
+* [Tablet Wireframe ](https://github.com/ip69719/MS2/blob/main/wireframes/MS2%20Wireframe%20Tablet.pdf)
 
 ## Features
 
