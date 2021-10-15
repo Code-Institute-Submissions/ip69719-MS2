@@ -37,8 +37,8 @@
 ### Wireframes
 
 * [Home Page Wireframe ]()
-* [Home Page Wireframe ]()
-* [Home Page Wireframe ]()
+* [Mobile Wireframe ]()
+* [Tablet Wireframe ]()
 
 ## Features
 
