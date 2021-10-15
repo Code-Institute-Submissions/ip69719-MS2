@@ -40,7 +40,6 @@ body{
     margin:auto;
     width: 90%;
     height: 80%;
-    background: pink;
 }
 
 
@@ -48,8 +47,7 @@ body{
 #question-img{
     width: 50%;
     height: 80%;
-    margin-top: 5%;*/
-    background: chartreuse;
+    margin-top: 5%;
 }
 
 #question-img img{
@@ -57,7 +55,7 @@ body{
     height: 100%;
 }
 
-/* answer boxes */
+/* answer box */
 .answer{
     width: 50%;
     height: 90%;
@@ -65,7 +63,6 @@ body{
     background:#f0ede1;
     text-align: center;
     border-radius: 30px;
-    background:purple;
 }
 
 .float {
@@ -75,10 +72,9 @@ body{
 /* score area styling */
 #score {
     height: 15%;
-    margin-top: 5%;
-    font-size: 90%;
+    padding-top: 5%;
+    font-size: 120%;
     color: #062b63;
-    background: blue;
 }
 
 #user-score{
@@ -88,10 +84,9 @@ body{
 /* instruction area */
 #instructions {
     height: 15%;
-    /*margin-top: 5%;*/
+    padding-top: 5%;
     font-size: 90%;
     color: #062b63;
-    background: green;
 }
 
 
@@ -105,9 +100,8 @@ body{
 .option {
     width: 60%;
     text-align: center;
-   /* border: 2px solid #031e3b;*/
     color:#f0ede1;
-    font-size: 100%;
+    font-size: 120%;
     border-radius: 5px;
     background:#ff5e00;
     margin: auto;
