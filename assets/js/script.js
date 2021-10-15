@@ -18,3 +18,8 @@ let questions = [{
     option3 : "Toyota",
     correct : "option3"
 }];
+
+
+//Declare variables to keep truck of:
+let currentQuestion = 0; //current question and
+let score = 0;//score
