@@ -70,6 +70,9 @@
 ## Testing
 
   * The W3C Markup Validator and W3C CSS Validator Services were used to validate the project to ensure there were no syntax errors.
+
+  ** W3C Markup Validator - [Results]()
+  ** W3C CSS Validator - [Results]()
   * Known Bugs
 
 
