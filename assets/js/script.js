@@ -52,3 +52,22 @@ function displayQuestion() {
 }
 
 displayQuestion();
+
+
+/**
+ * function to check user answer against the correct answer
+ * increment user score if the answer is correct.
+ * display next question
+ */
+function checkAnswer(userAnswer){
+
+    if (userAnswer == questions[currentQuestion].correct) {
+        alert("That is Correct Answer! Well Done!");
+        score++;
+
+    } else {
+        alert("This is Incorrect :-( !" );
+    }
+    currentQuestion++;
+    displayQuestion();
+}
