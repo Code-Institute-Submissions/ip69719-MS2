@@ -8,7 +8,23 @@
     <title>Car Logos Learning Game</title>
 </head>
 <body>
-
+    <div class="quiz-container">
+        <div class="header">
+            <h2>What car company logo is this?</h2>
+        </div>
+        <div class="question-area">
+            <div class="float" id="question-img"></div>
+            <div class="float answer">
+                <div id="score">Score: <span id="user-score"></span> / <span id="total-questions">0</span></div>
+                <div id="instructions">Click one of the buttons to select your answer.</div>
+                <div class="answer-options">
+                    <div class="option" id="option1" onclick="checkAnswer('option1')"></div>
+                    <div class="option" id="option2" onclick="checkAnswer('option2')"></div>
+                    <div class="option" id="option3" onclick="checkAnswer('option3')"></div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
     <script src="assets/js/script.js"></script>
