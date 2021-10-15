@@ -1,25 +1,50 @@
 // Create questions for the quiz
 let questions = [{
     imgSrc : "assets/images/lexus.png",
-    option1 : "Lexus",
-    option2 : "Lamborghini",
-    option3 : "Lotus",
-    correct : "option1"
+    optionA : "Lexus",
+    optionB : "Lamborghini",
+    optionC : "Lotus",
+    correct : "optionA"
 },{
     imgSrc : "assets/images/mercedes.png",
-    option1 : "Mazda",
-    option2 : "Mercedes",
-    option3 : "McLaren",
-    correct : "option2"
+    optionA : "Mazda",
+    optionB : "Mercedes",
+    optionC : "McLaren",
+    correct : "optionB"
 },{
     imgSrc : "assets/images/toyota.png",
-    option1 : "Tesla",
-    option2 : "Tata",
-    option3 : "Toyota",
-    correct : "option3"
+    optionA : "Tesla",
+    optionB : "Tata",
+    optionC : "Toyota",
+    correct : "optionC"
 }];
 
 
 //Declare variables to keep truck of:
 let currentQuestion = 0; //current question and
 let score = 0;//score
+
+
+//Display question function
+function displayQuestion() {
+
+    //get and modify user score
+    let userScore = document.getElementById("user-score");
+    userScore.innerHTML = score;
+
+    //display logo image
+    let questionImg = document.getElementById("question-img");
+    questionImg.innerHTML = "<img src="+ questions[currentQuestion].imgSrc +">";
+    
+    //display alternative answers
+    let optionA = document.getElementById("optionA");
+    optionA.innerHTML = questions[currentQuestion].optionA;
+
+    let optionB = document.getElementById("optionB");
+    optionB.innerHTML = questions[currentQuestion].optionB;
+
+    let optionC = document.getElementById("optionC");
+    optionC.innerHTML = questions[currentQuestion].optionC;
+}
+
+displayQuestion();
